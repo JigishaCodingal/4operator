@@ -9,5 +9,6 @@ hindi = int(input("Hindi: "))
 total = math + english + science + hindi
 print("Sum of Maths, English, Science and Hindi =", total)
 
-percentage = (total / 400) * 100
+percentage = (total / 200) * 100
 print("Percentage Marks =", percentage)
+
